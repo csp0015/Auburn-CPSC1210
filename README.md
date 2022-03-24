@@ -1,2 +1,2 @@
 # Auburn-CPSC1210
-These are the programs I wrote for each project given to me in class
+Intro to Computer Science I in Auburn's online computer science program. These are the programs I wrote for each project given to me in class
